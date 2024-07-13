@@ -4,5 +4,5 @@
 	<parent>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/lods/ARS067_YG_Radar_lod1	</parent>
 	<extent>	1.0000	</extent>
 	<nodefullVisual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/ARS067_YG_Radar	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </ARS067_YG_Radar.model>

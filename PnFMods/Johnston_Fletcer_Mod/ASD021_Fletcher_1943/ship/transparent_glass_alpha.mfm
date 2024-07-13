@@ -4,7 +4,4 @@
 	<property>	diffuseMap
 		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/ship/transparent_glass_alpha_a.dds	</Texture>
 	</property>
-	<property>	doubleSided
-		<Bool>	true	</Bool>
-	</property>
 </transparent_glass_alpha.mfm>

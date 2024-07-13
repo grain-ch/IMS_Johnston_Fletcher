@@ -285,7 +285,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.4022 -0.3055 -1.1501	</min>
-		<max>	0.4003 1.6359 3.8563	</max>
+		<min>	-0.4020 -0.3053 -1.1495	</min>
+		<max>	0.4001 1.6351 3.8544	</max>
 	</boundingBox>
 </ASD048_Fletcher_1945_MidFront_lod1.visual>

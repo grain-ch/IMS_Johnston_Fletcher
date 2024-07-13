@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/ship/ASD048_Fletcher_1945_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/ship/ASD048_Fletcher_1945_n.dds	</Texture>
-	</property>
 </ASD048_Fletcher_1945_wire.mfm>

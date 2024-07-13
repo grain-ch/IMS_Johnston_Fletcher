@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0821 0.0000 -0.1126	</min>
-		<max>	0.0929 0.1798 0.1425	</max>
+		<min>	-0.0821 -0.0040 -0.1125	</min>
+		<max>	0.0929 0.1797 0.1424	</max>
 	</boundingBox>
 </AGA002_40mm_Bofors_Mk1_dead_lod1.visual>

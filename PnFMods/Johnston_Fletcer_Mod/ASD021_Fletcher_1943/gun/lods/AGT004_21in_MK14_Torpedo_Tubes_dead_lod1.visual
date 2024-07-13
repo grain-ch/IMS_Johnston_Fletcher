@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1200 0.0000 -0.2235	</min>
-		<max>	0.1103 0.1385 0.3153	</max>
+		<min>	-0.1199 0.0000 -0.2234	</min>
+		<max>	0.1102 0.1384 0.3151	</max>
 	</boundingBox>
 </AGT004_21in_MK14_Torpedo_Tubes_dead_lod1.visual>

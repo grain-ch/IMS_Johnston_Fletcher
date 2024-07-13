@@ -3,5 +3,5 @@
 	<parent>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/gun/lods/AGB185_Depth_Charge_Thrower_dead_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/gun/AGB185_Depth_Charge_Thrower_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </AGB185_Depth_Charge_Thrower_dead.model>

@@ -91,7 +91,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1298 0.0000 -0.0426	</min>
-		<max>	0.1298 0.1455 0.0624	</max>
+		<min>	-0.1297 0.0000 -0.0426	</min>
+		<max>	0.1297 0.1454 0.0624	</max>
 	</boundingBox>
 </ARS005_Radar_SC2_lod1.visual>

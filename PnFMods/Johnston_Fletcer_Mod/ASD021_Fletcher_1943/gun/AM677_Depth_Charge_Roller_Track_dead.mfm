@@ -11,7 +11,7 @@
 		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/gun/AM677_Depth_Charge_Roller_Track_dead_a.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/gun/FGB070_Depth_Charge_Roller_Track_dead_mg.dds	</Texture>
+		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/gun/AM677_Depth_Charge_Roller_Track_dead_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/gun/AM677_Depth_Charge_Roller_Track_n.dds	</Texture>

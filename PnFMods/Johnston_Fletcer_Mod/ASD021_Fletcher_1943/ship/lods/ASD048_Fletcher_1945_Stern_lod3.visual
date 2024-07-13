@@ -78,7 +78,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0333 -0.0333 -2.7014	</min>
-		<max>	0.0333 0.0333 -1.3006	</max>
+		<min>	-0.0333 -0.0333 -2.7001	</min>
+		<max>	0.0333 0.0333 -1.3000	</max>
 	</boundingBox>
 </ASD048_Fletcher_1945_Stern_lod3.visual>

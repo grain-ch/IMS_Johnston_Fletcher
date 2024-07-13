@@ -1,7 +1,7 @@
 <ARS005_Radar_SC2.model>
 	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/lods/ARS005_Radar_SC2_lod1	</parent>
-	<extent>	3.0000	</extent>
+	<extent>	8.0000	</extent>
 	<nodefullVisual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/ARS005_Radar_SC2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </ARS005_Radar_SC2.model>
