@@ -7,6 +7,9 @@ Copy "PnFMods" and "PnFModsLoader.py" into /bin/{the largest numbered folder}/re
 ==============================
 Change log
 
+2024/07/13
+rework for 13.6
+
 2022/06/16
 model renewal update for 0.11.5
 
