@@ -1,8 +1,8 @@
 <ARS067_YG_Radar.model>
-	<castsShadow>	true	</castsShadow>
-	<visibilityZone>	AboveWater	</visibilityZone>
-	<parent>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/lods/ARS067_YG_Radar_lod1	</parent>
-	<extent>	1.0000	</extent>
-	<nodefullVisual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/ARS067_YG_Radar	</nodefullVisual>
+	<visual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/ARS067_YG_Radar.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS067_YG_Radar/ARS067_YG_Radar.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </ARS067_YG_Radar.model>

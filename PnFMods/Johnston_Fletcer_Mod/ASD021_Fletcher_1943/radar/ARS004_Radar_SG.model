@@ -1,7 +1,8 @@
 <ARS004_Radar_SG.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/lods/ARS004_Radar_SG_lod1	</parent>
-	<extent>	6.0000	</extent>
-	<nodefullVisual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/ARS004_Radar_SG	</nodefullVisual>
+	<visual>	PnFMods/Johnston_Fletcer_Mod/ASD021_Fletcher_1943/radar/ARS004_Radar_SG.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS004_Radar_SG/ARS004_Radar_SG.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </ARS004_Radar_SG.model>
